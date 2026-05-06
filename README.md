@@ -8,9 +8,14 @@ I'm currently diving deep into AI & Machine Learning, exploring the world of Gen
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Shrishagk&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishagk&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 GSSoC 2026 Badges
+
+<p align="center">
+  <img src="https://gssoc.girlscript.org/badges/contributor.webp" width="180"/>
+  <img src="https://gssoc.girlscript.org/badges/open.webp" width="180"/>
+  <img src="https://gssoc.girlscript.org/badges/ai.webp" width="180"/>
+  <img src="YOUR_4TH_BADGE_URL" width="180"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shrishagk&theme=dark&no-frame=false&no-bg=true&margin-w=4)
