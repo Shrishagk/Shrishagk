@@ -135,8 +135,8 @@ class ShrishaGK:
 
 | Role | Organization | Year |
 |------|-------------|------|
-| 🔬 ML Research Intern | IEEE Conference & Journal Publications | 2024 |
-| 📊 Data Science Intern | Cognifyz Technologies | 2024 |
+| 🔬 ML Research Intern | IEEE Conference & Journal Publications | 2026 |
+| 📊 Data Science Intern | Cognifyz Technologies | 2026 |
 
 ---
 
